@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "sensor.ts",
+        "sensor.cpp"
     ],
     "testFiles": [
         "test.ts"
